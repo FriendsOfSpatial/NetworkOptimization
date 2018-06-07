@@ -1,6 +1,0 @@
-C:\Users\Simon-Pierre\Desktop\GitHub\RogueFleet\libraries\NetworkOptimization\NetworkOptimization\obj\Release\NetworkOptimization.csprojResolveAssemblyReference.cache
-C:\Users\Simon-Pierre\Desktop\GitHub\RogueFleet\libraries\NetworkOptimization\NetworkOptimization\obj\Release\NetworkOptimization.csproj.CoreCompileInputs.cache
-C:\Users\Simon-Pierre\Desktop\GitHub\RogueFleet\libraries\NetworkOptimization\NetworkOptimization\bin\Release\NetworkOptimization.dll
-C:\Users\Simon-Pierre\Desktop\GitHub\RogueFleet\libraries\NetworkOptimization\NetworkOptimization\bin\Release\NetworkOptimization.pdb
-C:\Users\Simon-Pierre\Desktop\GitHub\RogueFleet\libraries\NetworkOptimization\NetworkOptimization\obj\Release\NetworkOptimization.dll
-C:\Users\Simon-Pierre\Desktop\GitHub\RogueFleet\libraries\NetworkOptimization\NetworkOptimization\obj\Release\NetworkOptimization.pdb
